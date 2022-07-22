@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "42e314038910ca6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6f6268ea712c722",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Z algorithm learning.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8657d6f95f08840e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e62f6550da721c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ee93213c54f31ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c96811bed13aeb6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c9ad3cec1f7593d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "271f2dec362c3e03",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c5774b98dc670d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7b7131bb638b56a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Z algorithm learning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56ae9e798811b0c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Z algorithm learning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec37eb534cc73e71",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "651e98d6bf82f498",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Z algorithm learning.md"
+              }
+            }
+          },
+          {
+            "id": "4113e1f9aec1d00c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a6f6268ea712c722",
+  "lastOpenFiles": [
+    "2022-07-22.md",
+    "Z algorithm learning.md",
+    "Barclays coding test 2019 grads.md",
+    "2022-W30.md",
+    "My List.md",
+    "Heap.md",
+    "2022-07-18.md",
+    "DSA Sheet.md",
+    "Ayush Chat.md",
+    "Servlet.md"
+  ]
+}
