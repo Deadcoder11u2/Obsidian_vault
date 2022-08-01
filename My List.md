@@ -6,12 +6,12 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] Learn Z function
 - [ ] Daily leetcode problem
 
 
 ## Done
 
+- [ ] Learn Z function
 
 
 ## Assingments

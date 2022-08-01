@@ -1,0 +1,1 @@
+- Think of stick if you have to find lexicographically smallest element with removals or deleting duplicates

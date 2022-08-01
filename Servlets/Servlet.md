@@ -1,3 +1,8 @@
+Some knowledge about CGI(common gateway interface)
+CGI is platforom dependent
+For each and every request a new process and created
+hence forth response timer is higher
+
 1. We can put jar file in lib foler
 2. Web server serves only static page
 3. NOTE: DD stands for deployment descriptor
@@ -51,6 +56,35 @@ Important mappings of web.xml file
 a. getServletConfig().getServletContext().getInitParameter()
 b. getServletContext().getInitParameter()
 c. this.getServletConfig().getInitParamenter()
+
+
+
+Life cycle of Servlet
+
+- Load Servlet class
+- Create servlet instance
+- Call init() method
+- Call service() method
+- Call destroy() method
+
+
+Load Servlet Class: Web container lads the servlet when the first request is received. This step is executed only once at the time of first request.
+
+Create servlet instance: After loading the servlet calss web container creats teh servlet isntance. Only one instance is created for a servlet and all concurrent requests are executed on the same servlet instance.
+
+Call init() method: After creating the servlet instance web container calls the servlets's init method. This methos is used to initilalize the servlet before processing first request. It is called once by the web container.
+
+Call service() method: After initialization process web container calls service method. Service method is called for every reqyest. For every reqyest servlet creates a seperate thread.
+
+Call destroy() method: This method is called by web container before removing the servlet instance. Destroy method asks serlet to releases all the resources associated with it. IT so called only once by the web container when all threads of the servlet have exited or in a timeout case.
+
+There exists a Servlet interface that we can extend to implement a servlet of our own.
+
+
+Web.xml is deployment descriptor
+
+
+Generic Servlet class in java
 
 
 
