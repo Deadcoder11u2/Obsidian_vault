@@ -7,9 +7,11 @@
         "id": "4159467f3a9b96c8",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Problems Solved Across All Platforms.md"
+            "file": "DSA Sheet.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -59,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 253
   },
   "right": {
     "id": "271f2dec362c3e03",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems Solved Across All Platforms.md",
+                "file": "DSA Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problems Solved Across All Platforms.md",
+                "file": "DSA Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problems Solved Across All Platforms.md"
+                "file": "DSA Sheet.md"
               }
             }
           },
@@ -125,6 +126,14 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "41ac0b38f92a2732",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
               "state": {}
             }
           }
@@ -136,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4113e1f9aec1d00c",
+  "active": "4159467f3a9b96c8",
   "lastOpenFiles": [
-    "Problems Solved Across All Platforms.md",
-    "find the closest to the given two nodes.md",
-    "longest cycle in a graph.md",
-    "Range Sum Mutable.md",
-    "My List.md",
-    "Dijiktras Program.md",
-    "Servlets/Servlet.md",
-    "Servlets/Deployment Descriptor(web.xml).md",
+    "2022-07-18.md",
+    "2022-07-22.md",
+    "Ayush Chat.md",
     "HttpServlet Class.md",
-    "Servlets/Generic Servlet Class.md"
+    "longest cycle in a graph.md",
+    "My List.md",
+    "Number of submatrices with given sum.md",
+    "Problems Solved Across All Platforms.md",
+    "DSA crux points.md",
+    "Dijiktras Program.md"
   ]
 }
