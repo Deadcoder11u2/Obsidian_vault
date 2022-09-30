@@ -10,6 +10,7 @@ kanban-plugin: basic
 - [ ] awoo's favourite problem
 - [ ] White Black Balanced Sub Trees
 - [ ] Schedule Management
+- [ ] Rudveddange48@gmail.com used different email id in cash free and it doesn't exists
 
 
 ## Leetcode
@@ -23,6 +24,8 @@ kanban-plugin: basic
 ## Todo List
 
 - [ ] https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/2471/Very-concise-O(log(min(MN)))-iterative-solution-with-detailed-explanation
+- [ ] https://leetcode.com/problems/freedom-trail/
+- [ ] https://leetcode.com/problems/bricks-falling-when-hit/
 
 
 ## Atcoder

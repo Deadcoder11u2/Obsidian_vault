@@ -1,4 +1,5 @@
 {
   "textFontFamily": "JetBrains Mono",
-  "cssTheme": "Obsidian gruvbox"
+  "cssTheme": "Obsidian gruvbox",
+  "interfaceFontFamily": "FiraCode NF"
 }
