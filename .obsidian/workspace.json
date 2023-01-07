@@ -4,18 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "18043e61380216f2",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Distributed Computing Assignment.md",
-            "mode": "source",
-            "source": false
-          },
-          "pinned": true
-        }
+        "id": "876edf277f3eef4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f568d298602f9ec5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-01-06 23.23.32.excalidraw.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -33,7 +35,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -80,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributed Computing Assignment.md",
+                "file": "Excalidraw/Drawing 2023-01-06 23.23.32.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributed Computing Assignment.md",
+                "file": "Excalidraw/Drawing 2023-01-06 23.23.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,12 +124,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distributed Computing Assignment.md"
+                "file": "Excalidraw/Drawing 2023-01-06 23.23.32.excalidraw.md"
               }
             }
           },
           {
-            "id": "4113e1f9aec1d00c",
+            "id": "d140086ac723aa2b",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -133,7 +137,7 @@
             }
           },
           {
-            "id": "41ac0b38f92a2732",
+            "id": "491f6f751a1707c6",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -141,23 +145,35 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
-  "active": "18043e61380216f2",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+    }
+  },
+  "active": "f568d298602f9ec5",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
     "reminder.md",
-    "Distributed Computing Assignment.md",
-    "Range Sum Mutable.md",
-    "Servlets/Servlet.md",
-    "Servlets/Generic Servlet Class.md",
-    "Servlets/Deployment Descriptor(web.xml).md",
-    "Barclays coding test 2019 grads.md",
-    "Problems Solved Across All Platforms.md",
-    "Z algorithm learning.md",
-    "Top Leetcode posts that you cannot miss.md"
+    "Excalidraw/Drawing 2023-01-06 18.35.36.excalidraw.md",
+    "Untitled 1.md",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Excalidraw/Drawing 2023-01-06 17.55.06.excalidraw.md",
+    "Excalidraw/Drawing 2023-01-06 17.55.00.excalidraw.md",
+    "Excalidraw/Drawing 2023-01-06 17.37.57.excalidraw.md",
+    "Servlets/Deployment Descriptor(web.xml).md"
   ]
 }

@@ -1,5 +1,7 @@
 {
   "textFontFamily": "JetBrains Mono",
   "cssTheme": "Obsidian gruvbox",
-  "interfaceFontFamily": "FiraCode NF"
+  "interfaceFontFamily": "FiraCode NF",
+  "theme": "obsidian",
+  "accentColor": ""
 }

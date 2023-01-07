@@ -16,7 +16,6 @@ hence forth response timer is higher
 11. web.xml file should be put in WEB-INF
 
 
-
 Important mappings of web.xml file
 
 1. servlet-mapping tag of DD maps the servlet with the url pattern
@@ -77,14 +76,10 @@ Call init() method: After creating the servlet instance web container calls the 
 Call service() method: After initialization process web container calls service method. Service method is called for every reqyest. For every reqyest servlet creates a seperate thread.
 
 Call destroy() method: This method is called by web container before removing the servlet instance. Destroy method asks serlet to releases all the resources associated with it. IT so called only once by the web container when all threads of the servlet have exited or in a timeout case.
-
 There exists a Servlet interface that we can extend to implement a servlet of our own.
-
-
 Web.xml is deployment descriptor
-
-
 Generic Servlet class in java
 
-
-
+```CQL
+SELECT * FROM TABLE;
+```
